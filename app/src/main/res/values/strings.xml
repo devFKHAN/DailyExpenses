@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DailyExpenses</string>
+    <string name="textView2">DAILY</string>
+    <string name="textView3">EXPENSE</string>
+    <string name="textView4">E</string>
+    <string name="textView">D</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="edit_text1">Enter User Name</string>
+    <string name="enter_your_monthly_budget">Enter your monthly budget</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="set_daily_reminder_time">Set daily reminder time</string>
+    <string name="todo">TODO</string>
+    <string name="done">Done</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Medical</item>
+        <item>Personal</item>
+        <item>Clothing</item>
+        <item>Utilities</item>
+        <item>Transportation</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="changing_field">
+
+        <item>Name</item>
+        <item>UserName</item>
+        <item>Budget</item>
+
+    </string-array>
+    <string-array name="choose_graph">
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
