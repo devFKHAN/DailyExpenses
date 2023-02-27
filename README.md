@@ -12,8 +12,14 @@ In the Daily expense app, you can record your expenses in an easy way. It helps 
 <br>
 2.  Graph report :- <br>
 &emsp;&emsp;*&emsp;Graphs allow you to see your monthly spending patterns.
-
-
+<h3>First Time Opening Of App</h3>
+Detailes entered by user
+<br>
+&emsp;&emsp;*&emsp;Full Name , Username , age.
+<br>
+&emsp;&emsp;*&emsp;Monthly budget - here user have to setup his minimum budget. If more budget required user can add manually.   
+<br>
+&emsp;&emsp;*&emsp;Daily notification - User get daily notification on the basis of user preference to input their expense .
 
 # DailyExpenses
 # DailyExpenses
